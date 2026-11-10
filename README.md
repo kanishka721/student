@@ -1,2 +1,3 @@
 # student
-this is first repo on github
+this is first repository on github
+author~kanishka
