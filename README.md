@@ -1,3 +1,4 @@
 # student
 this is first repository on github<br>
-author~kanishka
+author~ kanishka bhardwaj
+
